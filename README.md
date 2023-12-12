@@ -16,10 +16,10 @@ JavaScript
 ## Footer-View
 ![Login](./images/footer_View.PNG)
 
-## Modal2-view
+## Modal1-view-Login
 ![Login](./images/modal1_view.PNG)
 
-## Modal2-view
+## Modal2-view-create
 ![Login](./images/modal2_view.PNG)
 
 ## About-Us-page
