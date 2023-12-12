@@ -5,8 +5,8 @@ Ecommerce website for ShoeStop.
 ShoeStore website offers a wide range of shoes for men and women. My primary objective in designing the website was to ensure seamless navigation for users, prioritizing a user-friendly experience to facilitate easy purchases. I have also given a special attention to creating a proper user interface, content layout and responsive design.
 
 ## Technologies Used
-HTML
-CSS
+HTML,
+CSS, and
 JavaScript
 
 ## Overview of website
