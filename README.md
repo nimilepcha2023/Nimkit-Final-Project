@@ -10,13 +10,25 @@ CSS
 JavaScript
 
 ## Overview of website
-![Login](./images/Logo.PNG) 
+## index-page
 ![Login](./images/coverpage.PNG) 
+
+## Footer-View
 ![Login](./images/footer_View.PNG)
+
+## Modal2-view
 ![Login](./images/modal1_view.PNG)
+
+## Modal2-view
 ![Login](./images/modal2_view.PNG)
+
+## About-Us-page
 ![Login](./images/aboutus.PNG)
+
+## Small-screen-view
 ![Login](./images/smallscreen_view.PNG)
+
+## index-page-small-screen-view
 ![Login](./images/mobileview.PNG)
 
 ## Acknowledgments
